@@ -1,6 +1,7 @@
 # WELCOME TO DUE NPM LIBRARY
 **8.16.2019** <br>
-**rgene2@gmail.com**
+**rgene2@gmail.com**<br>
+***test lib WIP***
 
 ### Specs
 
